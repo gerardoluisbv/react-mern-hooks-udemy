@@ -31,7 +31,7 @@ const getHeroeByIdAsync = (id) => {
     });
 }
 
-getHeroeByIdAsync(3)
+getHeroeByIdAsync(1)
 .then(console.log)
 .catch(console.warn)
 
